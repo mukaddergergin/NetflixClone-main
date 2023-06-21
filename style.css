@@ -24,6 +24,7 @@ body {
 
 .netflixHeader img {
  color: red;
+ max-width: 150px;
 }
 
 .headerBody {
@@ -183,6 +184,10 @@ background-color: rgb(33,37,41);
 height: 83vh;
 }
 
+.sayfa img {
+  max-width: 255px;
+}
+
 .anasyfa {
 margin-left: auto;
 margin-right: auto;
@@ -197,6 +202,7 @@ color: #fff;
 .anasyfa img {
 margin-top: 8rem;
 margin-left: 5rem;
+max-width: 210px;
 
 }
 
